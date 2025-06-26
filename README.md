@@ -3,7 +3,7 @@
 ### 🚀 Software Engineer | Data Engineering Enthusiast
 
 I'm a passionate software engineer with a strong background in data engineering and a diverse tech stack, including:  
-- **Languages & Frameworks**: .NET, C#, PHP, Python, JavaScript, Smarty  
+- **Languages & Frameworks**: .NET, C#, PHP, Python, JavaScript, Smarty, Airflow.  
 - **Cloud Technologies**: Experienced in developing and deploying cloud-based applications: Azure, AWS.
 
 ### 🛠️ What I Build
